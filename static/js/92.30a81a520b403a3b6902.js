@@ -1,2 +1,0 @@
-webpackJsonp([92],{1053:function(e,n,t){"use strict";var r=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("\n    会员虚拟币列表\n")])},l=[],u={render:r,staticRenderFns:l};n.a=u},190:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=t(1053),l=t(23),u=l(null,r.a,null,null,null);n.default=u.exports}});
-//# sourceMappingURL=92.30a81a520b403a3b6902.js.map
