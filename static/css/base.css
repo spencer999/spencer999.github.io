@@ -71,6 +71,7 @@ a {
 img{ 
 	border:none; 
 	font-size:.24rem;
+	width: 100%;
 } 
 span{
 	display: inline-block;
